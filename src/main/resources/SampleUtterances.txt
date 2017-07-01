@@ -1,0 +1,29 @@
+GetNewGreetingIntent greet me
+GetNewGreetingIntent greet my friend
+GetNewGreetingIntent greet my dad
+GetNewGreetingIntent greet my mom
+GetNewGreetingIntent greet my sister
+GetNewGreetingIntent greet my brother
+GetNewGreetingIntent greet my dog
+GetNewGreetingIntent greet my cat
+GetNewGreetingIntent greet my fish
+GetNewGreetingIntent greet my hamster
+GetNewGreetingIntent greet the dog
+GetNewGreetingIntent greet the cat
+GetNewGreetingIntent greet the fish
+GetNewGreetingIntent greet the hamster
+GetNewGreetingIntent greet the family
+GetNewGreetingIntent greet the visitor
+GetNewGreetingIntent greet the visitors
+GetNewGreetingIntent greet the guest
+GetNewGreetingIntent greet this person
+GetNewGreetingIntent greet this girl
+GetNewGreetingIntent greet this boy
+GetNewGreetingIntent greet this guy
+GetNewGreetingIntent greet this gal
+GetNewGreetingIntent greet this woman
+GetNewGreetingIntent greet this man
+GetNewGreetingIntent greet this dude
+GetNewGreetingIntent greet this dudette
+
+GreetUserIntent greet {UserName}

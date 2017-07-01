@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "GetNewGreetingIntent"
+    },
+    {
+      "intent": "GreetUserIntent",
+      "slots": [
+        {
+          "name": "UserName",
+          "type": "LIST_OF_COMMON_NAMES"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
