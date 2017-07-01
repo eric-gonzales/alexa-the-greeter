@@ -21,7 +21,7 @@ class TheGreeterSpeechletRequestStreamHandler extends SpeechletRequestStreamHand
          */
         supportedApplicationIds = new HashSet<String>()
         //todo: make this an env. var
-        supportedApplicationIds.add("amzn1.ask.skill.1d48fbfe-d280-4bf2-b126-005937a7823a")
+        supportedApplicationIds.add("<your id here>")
     }
 
     TheGreeterSpeechletRequestStreamHandler() {
